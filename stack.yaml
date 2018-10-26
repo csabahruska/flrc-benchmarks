@@ -1,0 +1,8 @@
+resolver: lts-11.21
+
+packages:
+  - '.'
+
+extra-deps:
+  - mersenne-random-1.0.0.1
+
